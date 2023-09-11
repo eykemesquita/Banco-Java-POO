@@ -40,7 +40,7 @@ https://github.com/eykemesquita/Banco-Java-POO/assets/88750399/bc7c97fa-46f4-44b
 
 ---  
 
-## ✍️Autora  
+## ✍️Autor 
 Eyke Mesquita Teixeira
 Contato: eyke1313@gmail.com
 ---  
